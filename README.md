@@ -16,7 +16,7 @@ Pré-requisito:
 - [Flutter instalado](https://docs.flutter.dev/get-started/install).
 - Android Studio
 - IDE (EX.: VsCode)
-
+- Emulador ou dispositivo físico conectado
 
 1. Clone o repositório:
 
