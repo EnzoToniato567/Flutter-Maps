@@ -12,7 +12,11 @@ Aplicativo Flutter que exibe um mapa do OpenStreetMap. Toque no mapa para ver as
 
 ## Como executar
 
-Pré-requisito: [Flutter instalado](https://docs.flutter.dev/get-started/install).
+Pré-requisito: 
+- [Flutter instalado](https://docs.flutter.dev/get-started/install).
+- Android Studio
+- IDE (EX.: VsCode)
+
 
 1. Clone o repositório:
 
