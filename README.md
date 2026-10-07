@@ -1,4 +1,4 @@
-# Flutter Google Maps
+# Flutter Maps
 
 Aplicativo Flutter que exibe um mapa do OpenStreetMap. Toque no mapa para ver as coordenadas do ponto selecionado e adicionar um marcador.
 
