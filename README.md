@@ -8,7 +8,7 @@ Aplicativo Flutter que exibe um mapa do OpenStreetMap. Toque no mapa para ver as
 
 ## APK 
 
-![Flutter Maps](/flutter_maps/assets/flutter_maps.apk)
+[Flutter Maps](/flutter_maps/assets/flutter_maps.apk)
 
 ## Como executar
 
